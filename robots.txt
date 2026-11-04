@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://salt-lake-city.lemurianstudios.com/sitemap.xml
